@@ -1,0 +1,26 @@
+.App {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.formInputs {
+  background-color:gainsboro;
+  padding: 5px;
+  margin: 5px;
+  width: 300px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.titleInput {
+  margin-left: 60px;
+}
+
+.priceInput {
+  margin-left: 56px;
+}
+
+.descriptionInput {
+  margin-left: 10px;
+}
